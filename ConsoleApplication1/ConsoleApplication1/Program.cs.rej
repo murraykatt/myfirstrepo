@@ -1,0 +1,9 @@
+diff a/ConsoleApplication1/ConsoleApplication1/Program.cs b/ConsoleApplication1/ConsoleApplication1/Program.cs	(rejected hunks)
+@@ -12,6 +12,7 @@
+         {
+             // this is the original file in the master branch
+             // add a second label
++            // inside playtime testing the conflict
+         }
+     }
+ }
