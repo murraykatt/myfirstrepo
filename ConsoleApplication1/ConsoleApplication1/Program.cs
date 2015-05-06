@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             // this is the original file in the master branch
+            // add a second label
         }
     }
 }
