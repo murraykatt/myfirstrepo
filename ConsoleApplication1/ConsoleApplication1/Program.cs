@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             // this is the original file in the master branch
             // add a second label
+            // modified inside the thirdbranch to test conflicts
         }
     }
 }
